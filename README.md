@@ -1,70 +1,74 @@
 > [English](./README.md) | [中文](./README_cn.md)
 
-# AllTick A-Share APIs - Your Key to Real-Time Market Data (And a Little Fun on the Side!)
+# AllTick A-Share API - The Best Way to Get Free Real-Time Market Data!
 
-## Authors: The Cool Cats at AllTick  
-## Contact Us: We don't bite!  
+## Official Website: https://alltick.co/
+## Authors: The AllTick Official Team  
+## Contact Us:  
+- **Email**: [support@alltick.co](mailto:support@alltick.co)  
+- **Skype**: [Contact Us Now!](https://join.skype.com/invite/xokTc695huNu)  
 - **Telegram**: [Chat with Us](https://t.me/alltick001)  
-- **Email**: [support@alltick.co](mailto:support@alltick.co)
 
 ---
 
-## Project Name: AllTick A-Share Real-Time Market APIs
+## Project Name: AllTick A-Share Real-Time Market Data API
 
-### Welcome to the World of Real-Time A-Share Data (Aka: Your Crystal Ball for Chinese Stocks)
-Need real-time data for A-shares? We’ve got you covered. Whether you're tracking Shanghai or Shenzhen stocks, this API will make sure you're always in the loop, and in style.
-
-Forget the complicated setups, we're all about making life easier, so you can focus on what's really important—impressing your friends with your stock market wizardry.
+### Introduction: Real-Time A-Share Data API for Shanghai and Shenzhen Stock Markets  
+AllTick offers **free real-time A-share data APIs**, making integration a breeze and providing real-time quotes, K-line data, tick-by-tick trades data for the Shanghai and Shenzhen stock markets. Whether you're an individual investor, a professional quant trading team, or a financial researcher, AllTick’s **A-share real-time data API** is your key to accessing comprehensive market information with ease.
 
 ---
 
-## What Makes Us Special?
-Well, besides our dazzling personalities, here's what you get:
+## Why Choose AllTick A-Share API?  
+AllTick keeps you up-to-date with the **Shanghai and Shenzhen A-share market** so you never miss a beat. Here's what we offer:
 
-- **Free** and **Open Source** (We’re givers!)
-- **Real-Time A-Share Quotes** (Because who has time to wait?)
-- **K-Line Data** (Get historical and current trends without breaking a sweat)
-
----
-
-## Features for the Cool Crowd:
-- **Get Real-Time Shanghai & Shenzhen A-Share Quotes**: Yes, it's instant. No, you don't need to thank us.
-- **Retrieve K-Line Data**: Your stock history lesson—delivered in real-time. Now with 100% less boredom.
+- **Completely Free** and **Open Source API** (Yep, it's free!)
+- **Real-Time Shanghai & Shenzhen A-Share Data** (Fast, accurate, and crucial for making smart decisions)
+- **Tick-by-Tick Data** (Get every single trade, no detail missed!)
+- **A-Share K-Line Data API** (From historical to minute-level K-lines, we’ve got you covered)
 
 ---
 
-## Integration Guide
-Want to hook up our API? It’s easy, just follow this [super-simple guide](./access_guide_cn.md).
+## Key Features:
+
+- **Real-Time A-Share Quotes for Shanghai and Shenzhen**: Our API delivers the latest market quotes to keep you informed of any price movements.
+- **Tick-by-Tick Trade Data API**: Every trade is at your fingertips, ensuring you’re always up to date.
+- **A-Share K-Line Data API**: From minute to historical K-line data, analyze both short-term and long-term market trends effortlessly.
 
 ---
 
-## API Overview
-
-- **Error Codes**: Because nobody’s perfect, here’s what could go wrong and how to fix it. [Learn More](./error_code_description_cn.md).
-- **A-Share Product Codes**: For those of you who love lists, we’ve got all the product codes for A-shares right [here](./product_code_list_A_stock_cn.md).
+## Integration Guide  
+AllTick’s API is designed for easy integration, whether you're a Python, PHP, or Java developer. Get started with our [Simple Integration Guide](./access_guide_cn.md).
 
 ---
 
-### HTTP API
-- **Get the Latest Transaction Price**: [Click here](./http_interface/latest_transaction_price_query_cn.md) to see how.
-- **Get the Latest Order Book**: For those who want to know *everything* about the market. [Check it out](./http_interface/latest_order_book_price_query_cn.md).
-- **K-Line Data Query**: It’s like a time machine, but for stocks. [Explore it](./http_interface/kline_query_cn.md).
-- **Batch K-Line Queries**: For those who like to ask for *a lot* of data at once. [Bulk it up](./http_interface/batch_kline_query_cn.md).
+## API Documentation
+
+- **Error Codes**: When things go wrong, our error codes will help you troubleshoot. [Learn more here](./error_code_description_cn.md).  
+- **A-Share Product Code List**: We’ve compiled all the A-share product codes you’ll need. [Check the list here](./product_code_list_A_stock_cn.md).
 
 ---
 
-### WebSocket API
-- **Real-Time Price Subscriptions**: Want stock prices on speed dial? [Subscribing is easy](./websocket_interface/realtime_transaction_quote_subscription_cn.md).
-- **Cancel Subscriptions**: We won’t take it personally. [Unsubscribe anytime](./websocket_interface/cancel_realtime_quote_subscription_cn.md).
+### HTTP API Endpoints
+
+- **Latest Trade Price Query API**: Retrieve the latest trade price for A-shares to make quick decisions. [Learn how](./http_interface/latest_transaction_price_query_cn.md).  
+- **K-Line Data Query API**: Need detailed K-line data? This endpoint helps you pull minute-level to daily **Shanghai & Shenzhen A-share K-line data**. [Click here](./http_interface/kline_query_cn.md).  
+- **Batch K-Line Query API**: Want to query multiple stocks’ K-line data at once? Our batch query endpoint has got you covered. [Batch Query Guide](./http_interface/batch_kline_query_cn.md).
 
 ---
 
-## Free Token? Yes, Please!  
-- [How to Get Your Free API Token](./token_application_cn.md)
+### WebSocket API Endpoints
+
+- **Real-Time Trade Quote Subscription API**: Get real-time trade updates for A-shares with this easy-to-use subscription service. [Subscription Guide](./websocket_interface/realtime_transaction_quote_subscription_cn.md).  
+- **Cancel Subscription**: Don’t want to receive data anymore? You can cancel anytime. [Cancel Guide](./websocket_interface/cancel_realtime_quote_subscription_cn.md).
 
 ---
 
-## Usage Examples - Even Your Dog Could Use This API (Okay, Maybe Not, but It's Easy!)
+## Get Your Free API Token  
+To use our API, you’ll need to get a free token first. Click here to quickly apply for your [API Token](./token_application_cn.md).
+
+---
+
+## Example Code - So Easy, Even Your Dog Could Use It (Well, Maybe Not, But It’s Really Simple!)
 
 ### Python:
 - [HTTP Request Example](./example/python/http_python_example.py)
@@ -80,10 +84,13 @@ Want to hook up our API? It’s easy, just follow this [super-simple guide](./ac
 
 ---
 
-## Contact Us (Again, We’re Here to Help!)  
-- **Telegram**: [We Love a Good Chat](https://t.me/alltick001)  
+## Contact Us  
+We're always ready to help you out with any API-related questions:
+
 - **Email**: [support@alltick.co](mailto:support@alltick.co)  
+- **Skype**: [Join Our Chat](https://join.skype.com/invite/xokTc695huNu)  
+- **Telegram**: [Chat with Us](https://t.me/alltick001)  
 
---- 
+---
 
-That’s it, folks! Time to dive into A-shares like a pro. Just remember, AllTick’s got your back, and we won’t charge you a cent for it. Now, go impress everyone with your newfound stock knowledge! 🚀
+With AllTick’s A-share API, you’ll have real-time access to the **Shanghai & Shenzhen A-share market**, empowering you with the latest market data to seize every investment opportunity. Start using it now! 🚀
