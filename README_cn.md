@@ -3,7 +3,7 @@
 # AllTick A股API - 获取免费实时A股行情的最佳选择！
 
 ## 官方网站：https://alltick.co/
-## 作者：AllTick官方团队  
+## 作者：AllTick官方酷猫团队  
 ## 联系我们：  
 - **邮箱**：[support@alltick.co](mailto:support@alltick.co)  
 - **Skype**：[马上联系](https://join.skype.com/invite/xokTc695huNu)  
