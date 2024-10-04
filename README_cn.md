@@ -1,5 +1,6 @@
 # AllTick A股 API - 实时市场数据就靠它了！（顺便带点小幽默）
 
+## 官方网站：https://alltick.co/
 ## 作者：AllTick官方酷猫团队  
 ## 联系我们：别害羞，来找我们聊聊吧！  
 - **Telegram**：[来Telegram和我们聊聊](https://t.me/alltick001)  
