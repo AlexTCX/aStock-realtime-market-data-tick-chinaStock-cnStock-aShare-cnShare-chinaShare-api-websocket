@@ -1,3 +1,5 @@
+> [English](./README.md) | [中文](./README_cn.md)
+
 # AllTick A股 API - 实时市场数据就靠它了！（顺便带点小幽默）
 
 ## 官方网站：https://alltick.co/
