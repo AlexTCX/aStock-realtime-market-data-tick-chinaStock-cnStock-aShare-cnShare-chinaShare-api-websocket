@@ -2,6 +2,7 @@
 
 # AllTick A股API - 获取免费实时A股行情的最佳选择！
 
+## 官方网站：https://alltick.co/
 ## 作者：AllTick官方团队  
 ## 联系我们：  
 - **邮箱**：[support@alltick.co](mailto:support@alltick.co)  
@@ -58,7 +59,6 @@ AllTick的API设计易于接入，不论你是Python、PHP还是Java开发者，
 ### WebSocket API 接口
 
 - **实时成交报价订阅API**：随时获取最新的A股成交数据，及时了解市场变化。[订阅指南](./websocket_interface/realtime_transaction_quote_subscription_cn.md)。  
-- **实时盘口订阅API**：实时获取市场的买卖盘变化，不错过任何机会。[点击了解](./websocket_interface/realtime_order_book_quote_subscription_cn.md)。  
 - **取消订阅**：不想继续接收数据？你可以随时取消订阅，操作简单方便。[取消指南](./websocket_interface/cancel_realtime_quote_subscription_cn.md)。
 
 ---
