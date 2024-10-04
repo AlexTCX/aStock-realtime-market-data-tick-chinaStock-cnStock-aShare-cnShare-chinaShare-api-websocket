@@ -3,7 +3,7 @@
 # AllTick A-Share API - The Best Way to Get Free Real-Time Market Data!
 
 ## Official Website: https://alltick.co/
-## Authors: The AllTick Official Team  
+## Authors: The AllTick Official Cool Cat Team  
 ## Contact Us:  
 - **Email**: [support@alltick.co](mailto:support@alltick.co)  
 - **Skype**: [Contact Us Now!](https://join.skype.com/invite/xokTc695huNu)  
