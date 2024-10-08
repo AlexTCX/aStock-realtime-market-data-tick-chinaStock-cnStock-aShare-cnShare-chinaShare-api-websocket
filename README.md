@@ -5,9 +5,9 @@
 ## Official Website: https://alltick.co/
 ## Authors: The AllTick Official Cool Cat Team  
 ## Contact Us:  
+- **Telegram**: [Chat with Us](https://t.me/alltick001)
 - **Email**: [support@alltick.co](mailto:support@alltick.co)  
 - **Skype**: [Contact Us Now!](https://join.skype.com/invite/xokTc695huNu)  
-- **Telegram**: [Chat with Us](https://t.me/alltick001)  
 
 ---
 
