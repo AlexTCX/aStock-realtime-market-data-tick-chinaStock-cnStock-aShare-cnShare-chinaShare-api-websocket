@@ -16,6 +16,7 @@ Telegram: [https://t.me/alltick001](https://t.me/alltick001)
 
 ## 官网
 [https://alltick.co](https://alltick.co)
+[https://alltick.io](https://alltick.io) 中国大陆
 
 ## 功能特性：
 
