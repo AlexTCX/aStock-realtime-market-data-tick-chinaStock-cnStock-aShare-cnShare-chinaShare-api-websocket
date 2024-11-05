@@ -16,6 +16,7 @@ Easy-to-use and user-friendly free open-source stock API, Hong Kong stock API, U
 
 ## Official Website
 [https://alltick.co](https://alltick.co)
+[https://alltick.io](https://alltick.io) for China Mainland
 
 ## Features:
 
